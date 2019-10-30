@@ -1,4 +1,4 @@
-# VideoWallWithRaspberryPi
+# Video Wall With Raspberry Pi
 
 
 ## Installations
