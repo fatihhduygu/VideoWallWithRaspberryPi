@@ -29,3 +29,9 @@ pi@raspberrypi:~/opencv-3.4.0/build $ make -j4
 pi@raspberrypi:~/opencv-3.4.0/build $ sudo make install
 pi@raspberrypi:~/opencv-3.4.0/build $ sudo ldconfig
 ```
+
+### And then install mss library
+
+```
+pi@raspberrypi:~ $python -m pip install -U --user mss
+```
