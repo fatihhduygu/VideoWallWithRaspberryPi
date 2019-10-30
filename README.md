@@ -2,7 +2,7 @@
 
 
 ## Installations
-###Firstly install OpenCV
+### Firstly install OpenCV
 
 ```
 pi@raspberrypi:~ $ sudo apt-get install build-essential cmake pkg-config
